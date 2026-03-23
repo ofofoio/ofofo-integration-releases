@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+
+# GitHub rejects files over ~100 MB in normal Git — keep installers out of commits.
+# Upload .dmg / .exe / .zip via GitHub Releases; commit only YAML and small metadata here.
+*.dmg
+*.zip
+*.exe
+*.blockmap
+*.AppImage
+*.deb
+*.rpm
+*.msi
+*.7z
