@@ -1,0 +1,8 @@
+version: 1.0.2
+files:
+  - url: Ofofo-Integration-Agent-1.0.2-arm64.dmg
+    sha512: jzr9/Sld3Cubh48vvdNgTNxvDGECOp249AEgTkEEV22JfgRvod2gZCmhR+h34pIK7+YuCcJUbZ1KOdeIBGpBQg==
+    size: 169468936
+path: Ofofo-Integration-Agent-1.0.2-arm64.dmg
+sha512: jzr9/Sld3Cubh48vvdNgTNxvDGECOp249AEgTkEEV22JfgRvod2gZCmhR+h34pIK7+YuCcJUbZ1KOdeIBGpBQg==
+releaseDate: '2026-03-26T16:00:54.342Z'
