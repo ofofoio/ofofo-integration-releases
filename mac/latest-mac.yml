@@ -1,11 +1,11 @@
-version: 1.0.3
+version: 1.0.4
 files:
-  - url: Ofofo-Integration-Agent-1.0.3-arm64.zip
-    sha512: FFfI7fajKw67uLVxqo3xA3QXJZDK8tGOQFcxgG3muxjB4L41X0/T798zYhlF7ghjHALRdKyqVV0aQm9yal7WHw==
-    size: 165500801
-  - url: Ofofo-Integration-Agent-1.0.3-arm64.dmg
-    sha512: +WKwQGKrfBxdOMKCgnIpvcpjbvQuy8CiYd6jkSe4znmj5U5d4fD7sgBoQPX4x0aiL37AZwWq4cIthRLFn5YMJg==
-    size: 169396237
-path: Ofofo-Integration-Agent-1.0.3-arm64.zip
-sha512: FFfI7fajKw67uLVxqo3xA3QXJZDK8tGOQFcxgG3muxjB4L41X0/T798zYhlF7ghjHALRdKyqVV0aQm9yal7WHw==
-releaseDate: '2026-03-27T10:12:17.284Z'
+  - url: Ofofo-Integration-Agent-1.0.4-arm64.zip
+    sha512: qTQMMBFlAAtno/HEdsc9QQECZRK3sWCoyAl3myrGGy+c2Tr5eFwwteSjthZX+HPG17AbMpPW5F4+NgV3il+O2A==
+    size: 165531009
+  - url: Ofofo-Integration-Agent-1.0.4-arm64.dmg
+    sha512: d2f2fyJ9iRkmvIhS3mKV9kjjWy+bnhp4CyBMpIbTGoo63UCaKrcgtNlSxu0Jq2qwGgz/y+S9PQP9SfqNxOs4xg==
+    size: 169497596
+path: Ofofo-Integration-Agent-1.0.4-arm64.zip
+sha512: qTQMMBFlAAtno/HEdsc9QQECZRK3sWCoyAl3myrGGy+c2Tr5eFwwteSjthZX+HPG17AbMpPW5F4+NgV3il+O2A==
+releaseDate: '2026-03-28T16:37:28.864Z'

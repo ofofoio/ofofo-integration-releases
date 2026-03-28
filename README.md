@@ -1,5 +1,7 @@
 # Ofofo Integration Agent — public release metadata
 
+**Current app version:** `1.0.4` (see `VERSION.txt`). **GitHub Release:** [v1.0.4](https://github.com/ofofoio/ofofo-integration-releases/releases/tag/v1.0.4).
+
 This repository holds **`latest-*.yml`** (and other small files) for auto-updates. It stays **separate** from the main app source so you can keep code private while exposing only update metadata.
 
 ## Why installers are not in Git
