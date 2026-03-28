@@ -1,11 +1,11 @@
-version: 1.0.4
+version: 1.0.5
 files:
-  - url: https://github.com/ofofoio/ofofo-integration-releases/releases/download/v1.0.4/Ofofo-Integration-Agent-1.0.4-arm64.zip
-    sha512: qTQMMBFlAAtno/HEdsc9QQECZRK3sWCoyAl3myrGGy+c2Tr5eFwwteSjthZX+HPG17AbMpPW5F4+NgV3il+O2A==
-    size: 165531009
-  - url: https://github.com/ofofoio/ofofo-integration-releases/releases/download/v1.0.4/Ofofo-Integration-Agent-1.0.4-arm64.dmg
-    sha512: d2f2fyJ9iRkmvIhS3mKV9kjjWy+bnhp4CyBMpIbTGoo63UCaKrcgtNlSxu0Jq2qwGgz/y+S9PQP9SfqNxOs4xg==
-    size: 169497596
-path: https://github.com/ofofoio/ofofo-integration-releases/releases/download/v1.0.4/Ofofo-Integration-Agent-1.0.4-arm64.zip
-sha512: qTQMMBFlAAtno/HEdsc9QQECZRK3sWCoyAl3myrGGy+c2Tr5eFwwteSjthZX+HPG17AbMpPW5F4+NgV3il+O2A==
-releaseDate: '2026-03-28T16:37:28.864Z'
+  - url: https://github.com/ofofoio/ofofo-integration-releases/releases/download/v1.0.5/Ofofo-Integration-Agent-1.0.5-arm64.zip
+    sha512: TB8fKTVRfGo4t0lJfkYtRfVe7VP1rmI/mXq9t2D2gKROKDhb+/sHcg9OCe830glC8bbAerBmTaqNgnfW6Dd4Lg==
+    size: 165531201
+  - url: https://github.com/ofofoio/ofofo-integration-releases/releases/download/v1.0.5/Ofofo-Integration-Agent-1.0.5-arm64.dmg
+    sha512: OALTnJRhEG3RzdpAneBpYTvQar22pMhyBesRO0HxLutHJhv1V+bD/VOdtvIpq8OzXmA7Z0m1bKPID5rAKRwWEA==
+    size: 169450031
+path: https://github.com/ofofoio/ofofo-integration-releases/releases/download/v1.0.5/Ofofo-Integration-Agent-1.0.5-arm64.zip
+sha512: TB8fKTVRfGo4t0lJfkYtRfVe7VP1rmI/mXq9t2D2gKROKDhb+/sHcg9OCe830glC8bbAerBmTaqNgnfW6Dd4Lg==
+releaseDate: '2026-03-28T17:13:07.454Z'
