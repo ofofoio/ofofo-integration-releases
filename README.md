@@ -1,8 +1,14 @@
 # Ofofo Integration Agent — public release metadata
 
-**Current app version:** `1.0.4` (see `VERSION.txt`). **GitHub Release:** [v1.0.4](https://github.com/ofofoio/ofofo-integration-releases/releases/tag/v1.0.4).
+**Current installers (GitHub Release):** [v1.0.4](https://github.com/ofofoio/ofofo-integration-releases/releases/tag/v1.0.4) — see `VERSION.txt` for the version last exported from the app repo.
 
 This repository holds **`latest-*.yml`** (and other small files) for auto-updates. It stays **separate** from the main app source so you can keep code private while exposing only update metadata.
+
+### Auto-update (important)
+
+The packaged app uses **electron-updater’s generic provider** against **raw.githubusercontent.com** (`mac/latest-mac.yml`, `windows/latest.yml`). Those YAML files list installers with **full `https://github.com/.../releases/download/...` URLs**, because large binaries are **not** stored in Git.
+
+Every **GitHub Release** must still attach the real `.dmg` / `.exe` / `.zip` assets. Older releases that omitted `latest-mac.yml` as a release asset caused **404** errors for the default GitHub provider; the generic + raw-git path avoids depending on that file existing as an asset.
 
 ## Why installers are not in Git
 

@@ -1,8 +1,8 @@
 version: 1.0.4
 files:
-  - url: Ofofo-Integration-Agent-1.0.4-win.exe
+  - url: https://github.com/ofofoio/ofofo-integration-releases/releases/download/v1.0.4/Ofofo-Integration-Agent-1.0.4-win.exe
     sha512: WOzLiG1QcUyvqDTBLVtENcxFst2GciGawVQpfC9imGK/5Msb91o4hq8y8sQgIXFN8mTDkfz9cYuW496CI8lJkQ==
     size: 118814488
-path: Ofofo-Integration-Agent-1.0.4-win.exe
+path: https://github.com/ofofoio/ofofo-integration-releases/releases/download/v1.0.4/Ofofo-Integration-Agent-1.0.4-win.exe
 sha512: WOzLiG1QcUyvqDTBLVtENcxFst2GciGawVQpfC9imGK/5Msb91o4hq8y8sQgIXFN8mTDkfz9cYuW496CI8lJkQ==
 releaseDate: '2026-03-28T16:37:28.864Z'
